@@ -4,7 +4,7 @@ import jungleThumb from '../assets/jungleThumb.jpg';
 import jungleFull from '../assets/jungleFull.jpg';
 import zamaThumb from '../assets/zamaThumb.png';
 import zamaFull from '../assets/zamaFull.png';
-import hotelThumb from '../assets/hotelThumb.jpg';
+import hotelThumb from '../assets/hotelThumb.JPG';
 import hotelFull from '../assets/hotelFull.jpg';
 import oriThumb from '../assets/oriThumb.jpg';
 import oriFull from '../assets/oriFull.jpg';
