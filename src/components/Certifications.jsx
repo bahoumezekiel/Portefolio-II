@@ -2,11 +2,11 @@ import React, { useState } from 'react';
 import Modal from './Modal';
 
 // Import des images depuis le dossier assets
-import miabeCert from '../assets/miabe-hackathon.jpg';
-import dataCert from '../assets/analyse-donnees.jpg';
-import cyberCert from '../assets/cybersecurite.jpg';
-import regressionCert from '../assets/regression.jpg';
-import machineLearningCert from '../assets/machine-learning.jpg';
+import miabeCert from '../assets/miabe-hackathon.JPG';
+import dataCert from '../assets/analyse-donnees.JPG';
+import cyberCert from '../assets/cybersecurite.JPG';
+import regressionCert from '../assets/regression.JPG';
+import machineLearningCert from '../assets/machine-learning.JPG';
 
 const Certifications = () => {
   const [selectedCertification, setSelectedCertification] = useState(null);
